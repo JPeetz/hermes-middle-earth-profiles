@@ -1,0 +1,108 @@
+# Franchise configuration for the profile factory.
+# Fill in per-franchise before building. `series_labels` maps each persona
+# series key to its display label; `series_skins` holds a 13-color terminal
+# palette per series for the skin generator.
+
+name: "Middle-earth"
+author: "JPeetz"
+rights_holder: "the Tolkien Estate and its respective rights holders"
+rights_note: >-
+  Unofficial, non-commercial fan-made behavioral collection for Hermes Agent.
+  No franchise logos, artwork, scripts, actor likenesses, maps, or copied
+  dialogue. Middle-earth, its characters, and its setting are the property of
+  the Tolkien Estate and its respective rights holders. Not affiliated with
+  or endorsed by them.
+
+series_labels:
+  Fellowship: "The Fellowship"
+  Rohan: "Rohan"
+  Gondor: "Gondor"
+  Valinor: "Valinor"
+  Shire: "The Shire"
+  Adversary: "The Enemy"
+
+series_skins:
+  Fellowship:
+    banner_border: "#2E5B4A"
+    banner_title: "#8FBF9F"
+    banner_accent: "#C9A227"
+    banner_dim: "#1E3B30"
+    banner_text: "#EAF6EE"
+    ui_accent: "#8FBF9F"
+    ui_label: "#C9A227"
+    prompt: "#EAF6EE"
+    input_rule: "#2E5B4A"
+    response_border: "#8FBF9F"
+    status_bar_bg: "#101F1A"
+    session_label: "#8FBF9F"
+    session_border: "#1E3B30"
+  Rohan:
+    banner_border: "#8A6B2F"
+    banner_title: "#E3C77F"
+    banner_accent: "#B5651D"
+    banner_dim: "#5B4420"
+    banner_text: "#FAF0D7"
+    ui_accent: "#E3C77F"
+    ui_label: "#B5651D"
+    prompt: "#FAF0D7"
+    input_rule: "#8A6B2F"
+    response_border: "#E3C77F"
+    status_bar_bg: "#221B0E"
+    session_label: "#E3C77F"
+    session_border: "#5B4420"
+  Gondor:
+    banner_border: "#5A6B7A"
+    banner_title: "#C9D3DC"
+    banner_accent: "#8E9EAD"
+    banner_dim: "#3A4753"
+    banner_text: "#F2F5F7"
+    ui_accent: "#C9D3DC"
+    ui_label: "#8E9EAD"
+    prompt: "#F2F5F7"
+    input_rule: "#5A6B7A"
+    response_border: "#C9D3DC"
+    status_bar_bg: "#1B222A"
+    session_label: "#C9D3DC"
+    session_border: "#3A4753"
+  Valinor:
+    banner_border: "#3E4E9E"
+    banner_title: "#A8B4E0"
+    banner_accent: "#D9B866"
+    banner_dim: "#232C5E"
+    banner_text: "#ECEFFB"
+    ui_accent: "#A8B4E0"
+    ui_label: "#D9B866"
+    prompt: "#ECEFFB"
+    input_rule: "#3E4E9E"
+    response_border: "#A8B4E0"
+    status_bar_bg: "#141A33"
+    session_label: "#A8B4E0"
+    session_border: "#232C5E"
+  Shire:
+    banner_border: "#6B8E4E"
+    banner_title: "#C7DC96"
+    banner_accent: "#A67B3D"
+    banner_dim: "#3F552B"
+    banner_text: "#F6FBE9"
+    ui_accent: "#C7DC96"
+    ui_label: "#A67B3D"
+    prompt: "#F6FBE9"
+    input_rule: "#6B8E4E"
+    response_border: "#C7DC96"
+    status_bar_bg: "#20291A"
+    session_label: "#C7DC96"
+    session_border: "#3F552B"
+  Adversary:
+    banner_border: "#3E3232"
+    banner_title: "#B5651D"
+    banner_accent: "#8C2F39"
+    banner_dim: "#2A2121"
+    banner_text: "#E8D9D9"
+    ui_accent: "#B5651D"
+    ui_label: "#8C2F39"
+    prompt: "#E8D9D9"
+    input_rule: "#3E3232"
+    response_border: "#B5651D"
+    status_bar_bg: "#191111"
+    session_label: "#B5651D"
+    session_border: "#2A2121"

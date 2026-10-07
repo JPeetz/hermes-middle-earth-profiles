@@ -1,0 +1,195 @@
+{
+  "franchise": "Middle-earth",
+  "profiles": [
+    {
+      "slug": "gandalf-the-grey",
+      "name": "Gandalf the Grey",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "aragorn",
+      "name": "Aragorn",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "frodo",
+      "name": "Frodo Baggins",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "samwise",
+      "name": "Samwise Gamgee",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "merry",
+      "name": "Merry (Meriadoc Brandybuck)",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "pippin",
+      "name": "Pippin (Peregrin Took)",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "gimli",
+      "name": "Gimli son of Gl\u00f3in",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "legolas",
+      "name": "Legolas Greenleaf",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "boromir-grey",
+      "name": "Boromir (Grey \u2014 Reformed)",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "theoden",
+      "name": "Th\u00e9oden",
+      "series": "Rohan"
+    },
+    {
+      "slug": "eomer",
+      "name": "\u00c9omer",
+      "series": "Rohan"
+    },
+    {
+      "slug": "eowyn",
+      "name": "\u00c9owyn",
+      "series": "Rohan"
+    },
+    {
+      "slug": "grima-the-red-team",
+      "name": "Gr\u00edma Wormtongue",
+      "series": "Rohan"
+    },
+    {
+      "slug": "faramir",
+      "name": "Faramir",
+      "series": "Gondor"
+    },
+    {
+      "slug": "denethor-the-red-team",
+      "name": "Denethor",
+      "series": "Gondor"
+    },
+    {
+      "slug": "gandalf-the-white",
+      "name": "Gandalf the White",
+      "series": "Valinor"
+    },
+    {
+      "slug": "saruman-grey",
+      "name": "Saruman",
+      "series": "Valinor"
+    },
+    {
+      "slug": "bilbo",
+      "name": "Bilbo Baggins",
+      "series": "Shire"
+    },
+    {
+      "slug": "old-bilbo",
+      "name": "Old Bilbo",
+      "series": "Shire"
+    },
+    {
+      "slug": "farmer-maggot",
+      "name": "Farmer Maggot",
+      "series": "Shire"
+    },
+    {
+      "slug": "sauron-the-red-team",
+      "name": "Sauron (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "saruman-the-red-team",
+      "name": "Saruman (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "gollum-the-red-team",
+      "name": "Gollum (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "the-ring-the-red-team",
+      "name": "The One Ring (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "witch-king-the-red-team",
+      "name": "The Witch-King of Angmar (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "morgoth-the-red-team",
+      "name": "Morgoth (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "shelob-the-red-team",
+      "name": "Shelob (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "mouth-of-sauron-the-red-team",
+      "name": "The Mouth of Sauron (Red Team)",
+      "series": "Adversary"
+    },
+    {
+      "slug": "elrond",
+      "name": "Elrond Half-elven",
+      "series": "Valinor"
+    },
+    {
+      "slug": "galadriel",
+      "name": "Galadriel",
+      "series": "Valinor"
+    },
+    {
+      "slug": "radagast-the-brown",
+      "name": "Radagast the Brown",
+      "series": "Valinor"
+    },
+    {
+      "slug": "glorfindel",
+      "name": "Glorfindel",
+      "series": "Valinor"
+    },
+    {
+      "slug": "imrahil",
+      "name": "Imrahil, Prince of Dol Amroth",
+      "series": "Gondor"
+    },
+    {
+      "slug": "lobelia-sackville",
+      "name": "Lobelia Sackville-Baggins",
+      "series": "Shire"
+    },
+    {
+      "slug": "tom-bombadil",
+      "name": "Tom Bombadil",
+      "series": "Shire"
+    },
+    {
+      "slug": "samwise-mayor",
+      "name": "Samwise Gamgee, Mayor of the Shire",
+      "series": "Shire"
+    },
+    {
+      "slug": "aragorn-king",
+      "name": "Aragorn II Elessar, King of the Reunited Kingdom",
+      "series": "Fellowship"
+    },
+    {
+      "slug": "treebeard",
+      "name": "Treebeard",
+      "series": "Shire"
+    }
+  ]
+}
